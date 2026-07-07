@@ -18,16 +18,19 @@ This repository is designed to simplify networking concepts using visual explana
 
 ## Diagram Index
 
-| # | Topic                                       | View       |
-| - | ------------------------------------------- | ---------- |
-| 1 | Introduction to Computer Networks           | [View](#1) |
-| 2 | Types of Networks & Interconnected Networks | [View](#2) |
-| 3 | Network & Logical Topology                  | [View](#3) |
-| 4 | OSI Model                                   | [View](#4) |
-| 5 | TCP/IP Model                                | [View](#5) |
-| 6 | Network Cables & Connectors                 | [View](#6) |
-| 7 | Networking Devices                          | [View](#7) |
-| 8 | Ethernet, ARP & NAC                         | [View](#8) |
+| #  | Topic                                                          | View        |
+| -- | -------------------------------------------------------------- | ----------- |
+| 1  | Introduction to Computer Networks                              | [View](#1)  |
+| 2  | Types of Networks & Interconnected Networks                    | [View](#2)  |
+| 3  | Network & Logical Topology                                     | [View](#3)  |
+| 4  | OSI Model                                                      | [View](#4)  |
+| 5  | TCP/IP Model                                                   | [View](#5)  |
+| 6  | Network Cables & Connectors                                    | [View](#6)  |
+| 7  | Networking Devices                                             | [View](#7)  |
+| 8  | Ethernet, ARP & NAC                                            | [View](#8)  |
+| 9  | Network Protocols                                              | [View](#9)  |
+| 10 | Application Layer Protocols                                    | [View](#10) |
+| 11 | Layer Functions, Connection-Oriented & Connectionless Services | [View](#11) |
 
 ---
 
@@ -76,6 +79,24 @@ This repository is designed to simplify networking concepts using visual explana
 <a id="8"></a>
 
 ![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_Ethernet_Arp_Nac/8.Ethernet_ARP_NAC.png?raw=true)
+
+---
+
+<a id="9"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_Protocol/9.NetworkProtcols.png?raw=true)
+
+---
+
+<a id="10"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_AppnProtocol/10.ApplicationLayerProtocols.png?raw=true)
+
+---
+
+<a id="11"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_LayersFn/11.Layerfn_ConnectionOrineted.png?raw=true)
 
 ---
 
