@@ -31,6 +31,9 @@ This repository is designed to simplify networking concepts using visual explana
 | 9  | Network Protocols                                              | [View](#9)  |
 | 10 | Application Layer Protocols                                    | [View](#10) |
 | 11 | Layer Functions, Connection-Oriented & Connectionless Services | [View](#11) |
+| 12 | IP Addressing (IPv4 vs IPv6)                                   | [View](#12) |
+| 13 | Subnetting vs Supernetting & Classful vs Classless Addressing  | [View](#13) |
+| 14 | NAT, DHCP & DNS                                                | [View](#14) |
 
 ---
 
@@ -97,6 +100,24 @@ This repository is designed to simplify networking concepts using visual explana
 <a id="11"></a>
 
 ![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_LayersFn/11.Layerfn_ConnectionOrineted.png?raw=true)
+
+---
+
+<a id="12"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_IPAddressing/12.IPAddressing_IPv4vsIPv6.png?raw=true)
+
+---
+
+<a id="13"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_Subnetting%26Addressing/13.SubnettingvsSupernetting%26ClassfullvsClassless.png?raw=true)
+
+---
+
+<a id="14"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_NAT_DCHP_DNS/14.NAT_DHCP_DNS.png?raw=true)
 
 ---
 
