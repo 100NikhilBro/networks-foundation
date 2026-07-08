@@ -34,6 +34,8 @@ This repository is designed to simplify networking concepts using visual explana
 | 12 | IP Addressing (IPv4 vs IPv6)                                   | [View](#12) |
 | 13 | Subnetting vs Supernetting & Classful vs Classless Addressing  | [View](#13) |
 | 14 | NAT, DHCP & DNS                                                | [View](#14) |
+| 15 | Routing Algorithms                                             | [View](#15) |
+| 16 | Distance Vector & Link State Routing                           | [View](#16) |
 
 ---
 
@@ -118,6 +120,18 @@ This repository is designed to simplify networking concepts using visual explana
 <a id="14"></a>
 
 ![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_NAT_DCHP_DNS/14.NAT_DHCP_DNS.png?raw=true)
+
+---
+
+<a id="15"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_Routing/15.RoutingAlgorithm.png?raw=true)
+
+---
+
+<a id="16"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_Ditance%26Link/16.DistanceVector%26LinkVector.png?raw=true)
 
 ---
 
