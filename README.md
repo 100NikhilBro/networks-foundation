@@ -18,28 +18,31 @@ This repository is designed to simplify networking concepts using visual explana
 
 ## Diagram Index
 
-| #  | Topic                                                          | View        |
-| -- | -------------------------------------------------------------- | ----------- |
-| 1  | Introduction to Computer Networks                              | [View](#1)  |
-| 2  | Types of Networks & Interconnected Networks                    | [View](#2)  |
-| 3  | Network & Logical Topology                                     | [View](#3)  |
-| 4  | OSI Model                                                      | [View](#4)  |
-| 5  | TCP/IP Model                                                   | [View](#5)  |
-| 6  | Network Cables & Connectors                                    | [View](#6)  |
-| 7  | Networking Devices                                             | [View](#7)  |
-| 8  | Ethernet, ARP & NAC                                            | [View](#8)  |
-| 9  | Network Protocols                                              | [View](#9)  |
-| 10 | Application Layer Protocols                                    | [View](#10) |
-| 11 | Layer Functions, Connection-Oriented & Connectionless Services | [View](#11) |
-| 12 | IP Addressing (IPv4 vs IPv6)                                   | [View](#12) |
-| 13 | Subnetting vs Supernetting & Classful vs Classless Addressing  | [View](#13) |
-| 14 | NAT, DHCP & DNS                                                | [View](#14) |
-| 15 | Routing Algorithms                                             | [View](#15) |
-| 16 | Distance Vector & Link State Routing                           | [View](#16) |
-| 17 | BGP, IGRP, EIGRP & OSPF                                        | [View](#17) |
-| 18 | Switching                                                      | [View](#18) |
-| 19 | IEEE 802.3 & IEEE 802.11 Standards                             | [View](#19) |
-| 20 | Ethernet Switching & VLANs                                     | [View](#20) |
+| #  | Topic                                                                | View        |
+| -- | -------------------------------------------------------------------- | ----------- |
+| 1  | Introduction to Computer Networks                                    | [View](#1)  |
+| 2  | Types of Networks & Interconnected Networks                          | [View](#2)  |
+| 3  | Network & Logical Topology                                           | [View](#3)  |
+| 4  | OSI Model                                                            | [View](#4)  |
+| 5  | TCP/IP Model                                                         | [View](#5)  |
+| 6  | Network Cables & Connectors                                          | [View](#6)  |
+| 7  | Networking Devices                                                   | [View](#7)  |
+| 8  | Ethernet, ARP & NAC                                                  | [View](#8)  |
+| 9  | Network Protocols                                                    | [View](#9)  |
+| 10 | Application Layer Protocols                                          | [View](#10) |
+| 11 | Layer Functions, Connection-Oriented & Connectionless Services       | [View](#11) |
+| 12 | IP Addressing (IPv4 vs IPv6)                                         | [View](#12) |
+| 13 | Subnetting vs Supernetting & Classful vs Classless Addressing        | [View](#13) |
+| 14 | NAT, DHCP & DNS                                                      | [View](#14) |
+| 15 | Routing Algorithms                                                   | [View](#15) |
+| 16 | Distance Vector & Link State Routing                                 | [View](#16) |
+| 17 | BGP, IGRP, EIGRP & OSPF                                              | [View](#17) |
+| 18 | Switching                                                            | [View](#18) |
+| 19 | IEEE 802.3 & IEEE 802.11 Standards                                   | [View](#19) |
+| 20 | Ethernet Switching & VLANs                                           | [View](#20) |
+| 21 | Spanning Tree Protocol (STP)                                         | [View](#21) |
+| 22 | Network Security & Firewalls                                         | [View](#22) |
+| 23 | Intrusion Detection System (IDS) & Intrusion Prevention System (IPS) | [View](#23) |
 
 ---
 
@@ -160,6 +163,24 @@ This repository is designed to simplify networking concepts using visual explana
 <a id="20"></a>
 
 ![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_Ethernet_VLANs/20.EthernetSwitching%26VLANs.png?raw=true)
+
+---
+
+<a id="21"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_STP/21.STP.png?raw=true)
+
+---
+
+<a id="22"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_Security/22.NetworkSecurity%26Firewall.png?raw=true)
+
+---
+
+<a id="23"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_Security/23.IPS%26IDS.png?raw=true)
 
 ---
 
