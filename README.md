@@ -53,6 +53,31 @@ This repository is designed to simplify networking concepts using visual explana
 
 ---
 
+## Common Ports & Protocols 
+
+| Port | Protocol | Transport | Purpose |
+|-----:|----------|-----------|---------|
+| 20/21 | FTP | TCP | File Transfer |
+| 22 | SSH | TCP | Secure Remote Login |
+| 23 | Telnet | TCP | Remote Login |
+| 25 | SMTP | TCP | Send Email |
+| 53 | DNS | UDP/TCP | Domain Name Resolution |
+| 67/68 | DHCP | UDP | Dynamic IP Assignment |
+| 80 | HTTP | TCP | Web Browsing |
+| 110 | POP3 | TCP | Receive Emails |
+| 143 | IMAP | TCP | Email Access |
+| 161/162 | SNMP | UDP | Network Monitoring |
+| 179 | BGP | TCP | Border Gateway Routing |
+| 443 | HTTPS | TCP | Secure Web Browsing |
+| 3306 | MySQL | TCP | MySQL Database |
+| 5432 | PostgreSQL | TCP | PostgreSQL Database |
+| 6379 | Redis | TCP | In-Memory Cache |
+| 27017 | MongoDB | TCP | MongoDB Database |
+
+> **Note:** These are the most commonly asked ports in general **SDE and Backend interviews**.
+
+---
+
 <a id="1"></a>
 
 ![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_Intro/1.IntroductiontoCn.png?raw=true)
