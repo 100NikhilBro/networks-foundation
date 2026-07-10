@@ -256,7 +256,21 @@ This repository is designed to simplify networking concepts using visual explana
 
 ![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_TCP_UPD_WebSocket_WebRTC/30.WebSocket%26WebRTC.png?raw=true)
 
+
 ---
+
+## Related Repository
+
+Looking for **Backend Engineering, System Design, Low-Level Design, SQL, Security, and Distributed Systems**?
+
+Check out **Backend Engineering Foundations**:
+
+🔗 https://github.com/100NikhilBro/backend-engineering-foundations
+
+It includes visual diagrams covering **LLD, SOLID, Design Patterns, System Design, Distributed Systems, Databases, Security, Backend Architecture, and more.**
+
+---
+
 ## Maintained By
 
 **Nikhil Gupta**
