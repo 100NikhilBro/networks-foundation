@@ -43,6 +43,13 @@ This repository is designed to simplify networking concepts using visual explana
 | 21 | Spanning Tree Protocol (STP)                                         | [View](#21) |
 | 22 | Network Security & Firewalls                                         | [View](#22) |
 | 23 | Intrusion Detection System (IDS) & Intrusion Prevention System (IPS) | [View](#23) |
+| 24 | VPNs & PKI | [View](#24) |
+| 25 | Cryptography & Secure Communication | [View](#25) |
+| 26 | Traffic Management & QoS | [View](#26) |
+| 27 | Network Performance & Troubleshooting | [View](#27) |
+| 28 | Network Monitoring, Communication Models & SDN | [View](#28) |
+| 29 | TCP & UDP | [View](#29) |
+| 30 | WebSocket & WebRTC | [View](#30) |
 
 ---
 
@@ -184,10 +191,51 @@ This repository is designed to simplify networking concepts using visual explana
 
 ---
 
+<a id="24"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_Security/24VPNs%26PKI.png?raw=true)
+
+---
+
+<a id="25"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_Security/25.Cyptography%26SecureCommunication.png?raw=true)
+
+---
+
+<a id="26"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_Traffic_Qos_Matrices/26.Traffic%20Management%20%26%20Qos.png?raw=true)
+
+---
+
+<a id="27"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_Traffic_Qos_Matrices/27.NetworkPerformance%26NetworkTroubleshooting.png?raw=true)
+
+---
+
+<a id="28"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_Traffic_Qos_Matrices/28NetworkMonitoring%26CommunicationModel%26SDN.png?raw=true)
+
+---
+
+<a id="29"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_TCP_UPD_WebSocket_WebRTC/29.TCP%26UDP.png?raw=true)
+
+---
+
+<a id="30"></a>
+
+![](https://github.com/100NikhilBro/networks-foundation/blob/main/CN_TCP_UPD_WebSocket_WebRTC/30.WebSocket%26WebRTC.png?raw=true)
+
+---
 ## Maintained By
 
 **Nikhil Gupta**
 
-This repository is continuously updated with new Computer Networks diagrams.
+This repository is actively maintained. New diagrams and networking concepts may be added as technologies evolve or valuable interview topics emerge.
 
-If you find this repository useful, consider giving it a **Star**. Your support is appreciated.
+If you found this repository helpful, consider giving it a ⭐.
