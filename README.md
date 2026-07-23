@@ -259,15 +259,14 @@ This repository is designed to simplify networking concepts using visual explana
 
 ---
 
-## Related Repository
+## Related Repositories
 
-Looking for **Backend Engineering, System Design, Low-Level Design, SQL, Security, and Distributed Systems**?
+This repository is part of a visual Computer Science learning series.
 
-Check out **Backend Engineering Foundations**:
-
-🔗 https://github.com/100NikhilBro/backend-engineering-foundations
-
-It includes visual diagrams covering **LLD, SOLID, Design Patterns, System Design, Distributed Systems, Databases, Security, Backend Architecture, and more.**
+| Repository | Description |
+|------------|-------------|
+| [Backend Engineering Foundations](https://github.com/100NikhilBro/backend-engineering-foundations) | Visual guides covering Backend Engineering, System Design, Distributed Systems, LLD, Design Patterns, Security, Databases, and Backend Architecture. |
+| [OS & DBMS Foundation](https://github.com/100NikhilBro/os_dbms) | Visual Operating Systems and Database Management Systems diagrams for learning and interview preparation. |
 
 ---
 
