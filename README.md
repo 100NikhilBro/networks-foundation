@@ -2,6 +2,14 @@
 
 A visual-first repository for learning **Computer Networks** through structured diagrams.
 
+<p align="center">
+  <img src="./assets/CN.gif" alt="Networks Foundation Demo" width="100%">
+</p>
+
+Repository walkthrough demonstrating the organization of topics and the visual learning approach used throughout this repository.
+
+---
+
 This repository is designed to simplify networking concepts using visual explanations. Each diagram focuses on a specific topic, making it easier to understand, revise, and prepare for interviews or academic courses.
 
 ---
