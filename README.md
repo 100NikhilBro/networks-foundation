@@ -79,6 +79,35 @@ This repository is designed to simplify networking concepts using visual explana
 | 6379 | Redis | TCP | In-Memory Cache |
 | 27017 | MongoDB | TCP | MongoDB Database |
 
+
+
+
+## OSI Layer — Network Devices
+
+| OSI Layer | Common Devices |
+|----------|----------------|
+| L7 – Application | Gateway |
+| L6 – Presentation | Gateway |
+| L5 – Session | Gateway |
+| L4 – Transport | L4 Load Balancer, L4 Firewall |
+| L3 – Network | Router, Layer 3 Switch |
+| L2 – Data Link | Switch, Bridge, NIC |
+| L1 – Physical | Hub, Repeater, Modem |
+
+
+
+## OSI Layer — Network Protocols
+
+| OSI Layer | Common Protocols |
+|----------|------------------|
+| L7 – Application | HTTP, HTTPS, FTP, DNS, DHCP, SMTP, POP3, IMAP, SSH, Telnet, SNMP |
+| L6 – Presentation | TLS/SSL, JPEG, PNG, MPEG |
+| L5 – Session | RPC, NetBIOS, SIP |
+| L4 – Transport | TCP, UDP, SCTP |
+| L3 – Network | IP, ICMP, IPsec, OSPF, RIP, BGP |
+| L2 – Data Link | Ethernet, Wi-Fi, PPP, HDLC, ARP |
+| L1 – Physical | Ethernet Physical Standards, DSL, USB, Bluetooth PHY |
+
 > **Note:** These are the most commonly asked ports in general **SDE and Backend interviews**.
 
 ---
